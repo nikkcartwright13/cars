@@ -1,0 +1,17 @@
+.car-card-out {
+    width: 33.33%;
+    padding: 0 12px;
+    margin: 15px 0;
+}
+
+@media (max-width: 1024px) {
+    .car-card-out {
+        width: 50%;
+    }
+}
+
+@media (max-width: 768px) {
+    .car-card-out {
+        width: 100%;
+    }
+}
