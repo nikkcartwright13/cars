@@ -16,9 +16,9 @@ module.exports = [
         "year": 1998,
         "image": 'https://s3-eu-west-1.amazonaws.com/localrent.images/cars/image_titles/000/027/349/original/Mitsubishi-PAJERO-io-2005-white.jpg?1652883725',
         "gallery": [
-            'https://raw.githubusercontent.com/nikkcartwright13/carrent/main/Cars/Pajeriio/pajerored1.jpeg',
-            'https://raw.githubusercontent.com/nikkcartwright13/carrent/main/Cars/Pajeriio/pajerored2.jpeg',
-            'https://raw.githubusercontent.com/nikkcartwright13/carrent/main/Cars/Pajeriio/pajerored3.jpeg',
+            'https://raw.githubusercontent.com/nikkcartwright13/cars/main/Cars/Pajeriio/pajerored1.jpeg?token=GHSAT0AAAAAACVH4AEL6YPGIVLNLOGVABTSZVLGRBQ',
+            'https://github.com/nikkcartwright13/cars/blob/main/Cars/Pajeriio/pajerored2.jpeg?raw=true',
+            'https://github.com/nikkcartwright13/cars/blob/main/Cars/Pajeriio/pajerored3.jpeg?raw=true',
 
 
         ],
