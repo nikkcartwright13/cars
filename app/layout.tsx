@@ -17,8 +17,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-      <meta name="googlebot" content="car,rent,renatal,tbilisi" />
-      <meta name="keywords" content="car, rent, rental, tbilisi" />
+      <meta name="googlebot" content="car, rent, renatal, tbilisi , car rent georgia , rent car tbilisi , find car rent" />
+      <meta name="keywords" content="car, rent, rental, tbilisi, car rent georgia , rent car tbilisi , find car rent" />
       </head>
       <body className="relative">
         <Navbar />

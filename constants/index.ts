@@ -83,10 +83,10 @@ export const manufacturers = [
     {
       title: "Socials",
       links: [
-        { title: "WhatsApp", url: "/" },
+        { title: "WhatsApp", url: "https://Wa.me/+995577773385?text=I'm%20interested%20in%20the%20" },
         { title: "Viber", url: "/" },
-        { title: "Instagram", url: "/" },
-        { title: "Facebook", url: "/" },
+        { title: "Instagram", url: "https://www.instagram.com/cheap_car_rent_georgia/" },
+    
       ],
     },
   ];
